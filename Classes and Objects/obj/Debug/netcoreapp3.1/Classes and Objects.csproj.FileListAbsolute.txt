@@ -1,0 +1,13 @@
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.exe
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.deps.json
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.runtimeconfig.json
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.runtimeconfig.dev.json
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.dll
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp3.1\Classes and Objects.pdb
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.AssemblyInfoInputs.cache
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.AssemblyInfo.cs
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.csproj.CoreCompileInputs.cache
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.dll
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.pdb
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.genruntimeconfig.cache
+E:\Projects\C# console\Typles\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp3.1\Classes and Objects.csprojAssemblyReference.cache
